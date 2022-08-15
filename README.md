@@ -1,8 +1,8 @@
 ### Olá, sou Jéssica Caroline 👋
 
-📚 Estudante de desenvolvimento de software Full stack Java
+📚  Estudante de desenvolvimento de software Full stack Java
 
-🏬 Graduanda em Análise e desenvolvimento de sistemas
+🏬  Graduanda em Análise e desenvolvimento de sistemas
 
 <div>
   <a href="https://beacons.ai/rafaballerini">
