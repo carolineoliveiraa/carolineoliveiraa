@@ -1,8 +1,8 @@
 ### Olá, sou Jéssica Caroline 👋
 
-📚  Estudante de desenvolvimento de software Full stack Java
+📚  Knowledge in HTML, CSS, JavaScript, Angular, Java, Spring Boot, MySql, Docker, and Git code versioning.
 
-🏬  Graduanda em Análise e desenvolvimento de sistemas
+💻  Working Software engineer at IBM
 
 <div>
   <a href="https://beacons.ai/rafaballerini">
