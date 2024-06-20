@@ -1,8 +1,38 @@
-### Olá, sou Jéssica Caroline 👋
+# Olá, eu sou Jéssica Oliveira! 👋
 
-📚  Knowledge in HTML, CSS, JavaScript, Angular, Java, Spring Boot, MySql, Docker, and Git code versioning.
+Bem-vindo ao meu repositório! Aqui você encontrará uma demonstração prática de todos os meus conhecimentos.
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineoliveiraa&layout=compact&langs_count=16&theme=dark"/>
-</div>
+## Sobre Mim
+
+Sou desenvolvedora de aplicações front-end e back-end. Todos os meus projetos passam por testes automatizados utilizando Rest Assured, JUnit e Robot Framework.
+
+## Projetos
+
+### Front-End
+
+- **Tecnologias:** HTML, CSS, JavaScript.
+- **Descrição:** Aplicações web interativas e responsivas.
+
+### Back-End
+
+- **Tecnologias:** Java, SpringBoot, NodeJs, Typescript.
+- **Descrição:** APIs RESTful eficientes.
+
+### Banco de Dados
+
+- **Tecnologias:** MySql, Postgresql, SQL.
+- **Descrição:** Armazenamento e consultas.
+
+
+### Testes Automatizados
+
+- **Ferramentas:** Rest Assured, JUnit, Robot Framework.
+- **Descrição:** Testes automatizados para garantir a qualidade e confiabilidade das aplicações.
+
+## Contato
+
+Você pode me encontrar nas redes sociais:
+
+- [LinkedIn](https://www.linkedin.com/in/jessicaroline-developer/)
+
 
