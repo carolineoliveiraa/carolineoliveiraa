@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará uma demonstração prátic
 
 ## Sobre Mim
 
-Sou desenvolvedora de aplicações front-end e back-end. Todos os meus projetos passam por testes automatizados utilizando Rest Assured, JUnit e Robot Framework.
+Sou desenvolvedora de aplicações front-end e back-end. Todos os meus projetos passam por testes automatizados utilizando Rest Assured, JUnit ou Robot Framework.
 
 ## Projetos
 
